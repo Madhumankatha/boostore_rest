@@ -13,6 +13,8 @@ pip install uvicorn
 <p>uvicorn app:app --reload</p>
 <h5>Appilication Endpoint: </h5>
 <p> http://127.0.0.1:8000</p>
+<h5>Swagger UI Endpoint: </h5>
+<p> http://127.0.0.1:8000/docs</p>
 </pre>
 
 <h3>LINKS</h3>
